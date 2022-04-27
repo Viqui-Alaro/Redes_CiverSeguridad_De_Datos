@@ -1,0 +1,84 @@
+Protocolos para ingresar
+SSh y telnet (esta por defecto en los equipos)
+
+Mobaxterm
+programa emulador de terminal
+una acteristica es una vez creado a una sessión se guarda
+
+Gns3 es un simulador de sistema operativo en producción
+
+El IOS es un sistema parecido al linux
+
+Packet tracer
+poner un nuevo nombre a un equipo el siguiente comando hostname ?
+Funciones de ayuda
+tambien conf t
+Switch(Config)# interface ?
+signo de ?
+
+el packet tracer solo tiene 10 comandos para guardar
+barra espacioadora = muestra la siguiente pantalla
+Ctrl-C = termina el modi de configuracion
+Ctrl-Z = 
+
+Configuración basica de un dispositivo
+1. poner nombre a un dispositivo viene por defecto switch, router ... etc
+2. se cambiar hostname prueba ejemplo poner un nombre identificado donde se encuentra
+
+Guía para contraseñas
+1. contraseñas mas de 8 caracteres
+2. no repetir contraseñas
+3. evitar usar la misma contraseña
+4. no usar palabras comunes
+
+Configurar contraseñas
+nivel proivilegiado podemos poner enable
+si quiero ver la configuración de donde esta corriendo en el dispositivo
+show
+
+para borrar un comando que pusimos hacemos lo siguiente
+poner la palabra NO (no) adelante del comando
+
+
+Contraseñas de Linea
+#conf t
+# line vty 0 15 numero de lineas 
+
+Encriptar las contraseñas
+
+
+Archivos de configuración
+startip-config= este archivo guarda la configuración  guardado que se almacena en NVRAM. Contiene todos los comandos que usuara el dispoditvo
+
+Modificación de configuración de ejecución
+reload hace que nuestra swith o dispositivo de reinicie
+
+para crear una configuración de startup-config
+show startup-config 
+y podemos copiar todo
+copiar por tftp: ?
+copy tftp: st
+copy tftp: startup-config
+8.8.8.8 ejem
+
+
+
+Direcciones IP
+Permite que los dispositivos de ubiquen entre si
+
+Interfaces y puertos
+tipos de cables cable tentrazo
+
+Configuraciones IP
+poner un direcionamiento IP
+
+probar la asignacion de interfaz
+ejemplo de vlan
+
+
+
+
+
+
+
+
