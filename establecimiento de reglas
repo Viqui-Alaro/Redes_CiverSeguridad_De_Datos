@@ -1,0 +1,41 @@
+
+para ver las redes logias
+#show vlan
+
+el enlace troncal puede pertener a una sola Vlan
+
+interface en modo troncal 
+es como una carretera pueden permitir multiples subredes entre la comunicación entre 2 switchs
+
+comunicación a nivel a capa 2 
+
+
+establecimiento de reglas
+deben utilizar las mismas reglas
+1. un emisor y un receptor identificados
+2. Idioma y gramática com'un
+3. Velocidad y momento de entrega
+
+Rquisitos del protoco de red
+1. Codificación de los mensajes
+2. Formato de mensaje ()
+
+unidifusion comunicacion uno a uno
+3.2 
+
+Interacción de protocolos
+Protcolo de transferencia de hipertexto = rige la manera en que interactúan un servidor web
+
+modelo de referencia TCP/IP
+aplicacion,trnasporte, internetny acceso a la red
+
+Modelo OSI
+1. physical 2. data link 3. network
+
+Dirección logica capa 3
+
+Wireshark = Su principal objetivo es el análisis de tráfico, pero además es una excelente aplicación didáctica 
+para el estudio de las comunicaciones y para la resolución de problemas de red.
+
+
+
