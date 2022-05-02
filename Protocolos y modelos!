@@ -1,0 +1,56 @@
+
+Identificó bien las respuestas correctas.
+
+Uno de los primeros pasos para enviar un mensaje es codificarlo. Durante el proceso de codificación, la información se convierte de su forma original a una forma aceptable para su transmisión.
+Los mensajes enviados a través de una red informática deben estar en el formato correcto para que se entreguen y procesen. Parte del proceso de formateo es identificar correctamente el origen del mensaje y su destino.
+El control de flujo es la gestión de la velocidad de transmisión. El tiempo de espera de respuesta es el tiempo que se espera a las respuestas. El método de acceso-determina en qué momento alguien puede enviar un mensaje. Estos son los tres componentes de la sincronización de mensajes.
+Los mensajes de multidifusión se dirigen para su transmisión a uno o varios dispositivos finales de una red. Los mensajes de difusión se dirigen para su transmisión a todos los dispositivos de la red. Los mensajes de unidifusión se dirigen para su transmisión a un dispositivo de la red.
+
+
+BGP y OSPF son protocolos de enrutamiento. Permiten a los routeres intercambiar información de ruta para llegar a redes remotas.
+Los protocolos de detección de servicios, como DNS y DHCP, permiten la detección automática del servicio. DHCP se utiliza para detectar servicios para la asignación automática de direcciones IP y DNS para los servicios de resolución de nombres a direcciones IP.
+La secuenciación identifica o etiqueta de forma exclusiva cada segmento transmitido con un número de secuencia utilizado por el receptor para volver a ensamblar los segmentos en el orden adecuado.
+Transmission Control Protocol (TCP) gestiona la conversación entre los dispositivos finales y garantiza la entrega fiable de la información.
+
+
+Protocolos y modelos
+Suites de protocolos
+
+TCP y UDP son protocolos de la capa de transporte.
+DHCP y DNS son protocolos de capa de aplicación.
+Ethernet es un protocolo de capa de acceso a la red.
+ICMPv4 e ICMPv6 proporcionan comentarios cuando se producen errores.
+Los datos se desencapsulan por lo que la siguiente capa para recibir los datos sería la capa de Internet.
+IP (Protocolo de Internet), ICMP (Mensajería) y Protocolos de enrutamiento son servicios proporcionados en la Capa de Internet.
+
+
+Protocolos y modelos
+Organizaciones estándares
+
+La respuesta correcta es verdadero. Las organizaciones de estandarización generalmente son organizaciones sin fines de lucro y neutrales en lo que respecta a proveedores, que se establecen para desarrollar y promover el concepto de estándares abiertos.
+El IETF desarrolla y mantiene las especificaciones para nuevos protocolos y actualizaciones de protocolos existentes a través de documentos publicados llamados Request for Comments (RFC).
+Autoridad de Números Asignados de Internet (IANA): responsable de supervisar y administrar la asignación de direcciones IP, la administración de nombres de dominio y los identificadores de protocolo para ICANN.
+Asociación de Industrias Electrónicas (EIA): es conocida principalmente por sus estándares relacionados con el cableado eléctrico, los conectores y los racks que se utilizan para montar equipos de red.
+
+
+Protocolos y modelos
+Encapsulamiento de datos
+
+
+La segmentación es el proceso de dividir un flujo de datos grande en trozos más pequeños que luego se transmiten al receptor.
+La PDU de la capa de transporte se conoce como segmento.
+La capa de vínculo de datos encapsula los datos en un marco.
+A medida que los datos se mueven hacia abajo en la pila de protocolos, los datos de protocolo se agregan a los datos originales. Esto comúnmente se conoce como proceso de encapsulamiento.
+
+
+
+Protocolos y modelos
+Acceso a los datos
+
+La respuesta correcta es verdadero. Cuando dos dispositivos están en redes IP diferentes, las tramas no se pueden enviar directamente al receptor ya que se encuentra en una red lógica diferente. Las tramas primero deben reenviarse a una puerta de enlace predeterminada (router).
+La respuesta correcta es falso. Es la parte situada más a la izquierda de una dirección IP que identifica la red. La parte situada más a la derecha se utiliza para identificar el dispositivo o interfaz específico.
+La máscara de subred se utiliza para determinar la porción de red de una dirección IPv4.
+Las direcciones MAC son direcciones físicas y 48 bits o 12 dígitos hexadecimales de longitud. Las direcciones IPv4 y las direcciones IPv6 son lógicas. Las direcciones IPv4 son de 32 bits y las direcciones IPv6 son de 128 bits.
+El direccionamiento del marco de enlace de datos consiste en una dirección MAC de destino y origen en ese orden.
+La respuesta correcta es falso. Las direcciones de enlace de datos cambian dentro del marco de enlace de datos cuando el dispositivo receptor no está en la misma red.
+Has tenido 6 respuestas correctas de 6.
