@@ -1,0 +1,24 @@
+
+
+Un ataque DoS ralentiza o bloquea equipos y programas.
+Una VPN crea una conexión segura para trabajadores remotos.
+Un firewall bloquea el acceso no autorizado a su red.
+Se produce un ataque de día cero o de hora cero el primer día que se conoce una vulnerabilidad.
+Un virus, gusano o caballo de Troya es código malintencionado que se ejecuta en dispositivos de usuario.
+Has tenido 5 respuestas correctas de 5.
+
+
+Dado que un switch nuevo no tendría ninguna configuración inicial, sólo se podía configurar a través del puerto de consola.
+La conexión de una computadora a un dispositivo Cisco a través del puerto de consola requiere un cable de consola especial.
+Tanto Telnet como SSH son métodos de acceso en banda que requieren una conexión de red activa al dispositivo.
+El puerto AUX de un dispositivo Cisco proporcionó conexiones fuera de banda a través de una línea telefónica.
+Has tenido 4 respuestas correctas de 4.
+
+
+Configuración básica de switches y terminales
+
+El modo EXEC privilegiado permite acceder a todos los comandos. Los comandos de nivel superior, como el modo de configuración global y los modos de subconfiguración, solo se pueden acceder desde el modo EXEC privilegiado.
+El modo de configuración global se identifica mediante el(config)# prompt .
+El > mensaje después del nombre del dispositivo identifica el modo EXEC del usuario.
+Para volver desde cualquier símbolo del sistema, hasta el modo EXEC privilegiado, escriba el end comando o presionando las CTRL+Z teclas simultáneamente en el teclado.
+
