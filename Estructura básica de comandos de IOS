@@ -1,0 +1,18 @@
+
+Configuración básica de switches y terminales
+Configuración básica de dispositivos
+
+
+El comando de configuración global para establecer el nombre de host en un dispositivo Cisco es hostname. Por lo tanto, en este ejemplo el comando completo es Switch(config)# hostname Sw-Floor-2.
+Asegurar el acceso al modo EXEC en un switch Cisco se logra con el comando enable secret seguido de la contraseña. En este ejemplo, el comando es Switch(config)# enable secret class.
+El acceso en modo EXEC del usuario a través del puerto de consola se habilita con el comando login introducido en modo de línea. Por ejemplo: Switch(config-line)# login.
+El service password-encryption comando introducido en el modo de configuración global encriptará todas las contraseñas de texto simple.
+El comando para establecer un banner que indique «Keep out» que se mostrará cuando la conexión a un switch de Cisco sea Switch(config)# banner motd $ Keep out $
+
+
+Configuración básica de switches y terminales
+Puertos y direcciones
+
+Las direcciones IPv4 se escriben en formato decimal punteado. Por ejemplo: 192.168.1.1
+Las direcciones IPv4 se escriben como cuatro grupos de números decimales separados por puntos. Por ejemplo: 192.168.1.1
+Las interfaces virtuales de switch (SVIs) son virtuales y no tienen puerto físico. Los switches de nivel 2 utilizan SVIs para la administración remota.
