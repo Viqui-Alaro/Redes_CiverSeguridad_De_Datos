@@ -1,0 +1,12 @@
+
+Topologias y representaciones de red
+
+Una interfaz conecta físicamente el dispositivo final a la red.
+Una NIC es un puerto especializado en un dispositivo de red que se conecta a redes individuales
+La topología lógica le permite ver qué dispositivos finales están conectados a qué dispositivos intermediarios y qué medios se están utilizando.
+La topología física le permite ver la ubicación real de los dispositivos intermedios y la instalación del cable
+
+
+Una LAN proporciona acceso a usuarios y dispositivos finales en un área geográfica pequeña.
+Una extranet proporciona acceso seguro a personas que trabajan para una organización diferente pero que requieren acceso a los datos de la organización.
+Una WAN proporciona acceso a otras redes a través de un área geográfica extensa.
