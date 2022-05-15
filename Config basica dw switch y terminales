@@ -1,0 +1,130 @@
+ interfaz de línea de comandos (CLI)
+ interfaz gráfica del usuario (GUI).
+ 
+ Consola = La ventaja de usar un puerto de consola es que el dispositivo es accesible 
+ incluso si no hay servicios de red configurados
+ 
+ Secure Shell (SSH) = SSH es un método para establecer de manera remota una conexión CLI 
+ segura a través de una interfaz virtual por medio de una red
+ 
+ Telnet = método inseguro para establecer una sesión CLI de manera remota
+ 
+ Cisco divide el acceso de administración en los siguientes dos modos de comando:
+ Modo de ejecución de usuario: Permite solo una cantidad limitada de comandos de monitoreo básicos, 
+ pero no permite la ejecución de ningún comando que podría cambiar la configuración del dispositivo
+ 
+ Modo de ejecución privilegiado: Para ejecutar comandos de configuración, 
+ un administrador de redes debe acceder al modo de ejecución privilegiado.
+ Solo se puede ingresar al modo de configuración global y a los modos de configuración más altos por medio del modo EXEC con privilegios. 
+ El modo EXEC con privilegios se puede reconocer por la petición de entrada que termina con el # símbolo.
+ 
+ 
+ Modo EXEC del usuario: A menudo se le conoce como un modo de “visualización solamente”.
+ ejem
+ Switch> 
+Router>
+
+Modo EXEC privilegiado: El modo permite el acceso a todos los comandos y funciones
+Ejempl
+Switch# 
+Router#
+
+
+el modo de configuración global:se realizan cambios en la configuración de la CLI que afectan la operación del dispositivo en su totalidad.
+El modo de configuración global se identifica mediante un mensaje que termina (config)# después del nombre del dispositivo, como Switch(config)#.
+
+Modo de configuración de líneas - Se utiliza para configurar la consola, SSH, Telnet o el acceso auxiliar.
+Modo de configuración de interfaz - Se utiliza para configurar un puerto de switch o una interfaz de red de router.
+
+# Navegación entre los modos de IOS
+
+
+Nota: El modo EXEC con privilegios se suele llamar modo enable.
+Para volver al modo EXEC privilegiado, ingrese el comando del modo exit de configuración global.
+Switch(config)# line console 0
+Switch(config-line)# exit
+Switch(config)#
+
+Para pasar de cualquier modo de subconfiguración al modo EXEC privilegiado,
+ingrese el comando end o ingrese la combinación de teclas.
+Switch(config-line)# end
+Switch#
+
+Puede trasladarse directamente desde un modo de subconfiguración a otro. Vea cómo después de seleccionar una interfaz, 
+el comando de petición cambia de(config-line)# to (config-if)#.
+Switch(config-line)# interface FastEthernet 0/1
+Switch(config-if)#
+
+
+
+
+
+
+
+
+
+
+
+
+Estructura básica de comandos de IOS
+Palabra clave (Keyword) - Esto es un parámetro específico definido en el sistema operativo (en la figura, ip protocols).
+Argumento - Esto no está predefinido; es un valor o variable definida por el usuario (en la figura, 192.168.10.5).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
