@@ -1,0 +1,25 @@
+LLA Dirección única local (dirección de enlace local)
+
+GUA (Dirección Única Global )
+
+Todos los ceros iniciales se pueden emitir
+para salir a internet necesitamos un DNC y bueno tendriamos que tener un servidor DHCP pV6
+
+
+metodo 2: slaac y DHCP sin estado:
+
+metodo 3: slaac y DHCP con estado:
+ya que tengo el estado de informacion
+puede tener la longitud de prefijo y las direcciones de los servidores de 
+
+
+Proceso EUI-64 vs generado aleatoriamente:
+es la forma o procedimiento el cual un dispositivo de red se autogenera su porcion de interfaz de ID utiliza su direccion 
+mac addrees e inserta en su mitad 
+
+Direcciones multicast de ipv6
+
+Division de una red ipv6 en subredes:
+ipv6 se diseño teniendo en cuenta las subredes
+
+
