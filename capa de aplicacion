@@ -1,0 +1,61 @@
+Http y Https = es un protocolo de solitud y respuesta
+
+Get = solicitud de datos por parte del cliente
+POst = carga archivos de datos como los datos de formulario
+PUT= carga los recursos o el contenido
+NOTA: http no es un protoco seguro
+
+Procolos de correo electronico
+el correo electronico es un metodo de guardado y desvio que se utiliza para enivar , guardar y 
+
+los protocolos de correo electronico para la operacion son:
+procolo simpre de tranferencia de correo(SMTP) para enviar correo electronico
+Procolo de oficiona de correos (POP) e IMAP se utliza 
+
+SMTP funciona zimbra exchange
+
+POP es tulizado por un aaplicacion para recuperar correo electronico de un servicodr de correo
+
+diferencia de POP e IMAP = 
+
+SERVICIOS DE DIRECCIONAMIENTO IP
+
+lod nombres de dominio se crearon para converit las direcciones numericas en un nombre sencillo y reconocible
+los nombre de dominio completos como
+http://ww.cisco.com son mas faciles que 192.133.218.2
+
+el protocolo DNS define un servicio uatomatizado que coinide con nombre de recursos que riene la direccion de red numerica solicitada
+
+Formato del mensaje DNS
+el servidor DNS almacena diferentes tipos de registro de recursos utilizados para resolver nombre
+
+Jerarquia de DNS
+
+el procolo DNS utlizasa un sistema jerarqueco para crear base que proporciona resolucion de nombres
+
+Funcionamiento de DHCP
+
+
+Procolo de transferecia de archicos
+EL protocolo FTP se desarrollo para permitir las transferencias de datos entre un cliente y un servidor, un cliente FTO  es una aplicacion que se +
+ejecuta en una computadora cliente y se utiliza para insertar y extraer
+
+Bloqieo de mensajes del servidor
+3 funciuones de mensajes SMB:
+1. inicar, autrentyicar y terminar sesiones
+2. controlar el accseso a los archivos y las impresoreas
+3. autorizar una aplicacion para enviar o recibir 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
