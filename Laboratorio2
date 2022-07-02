@@ -1,0 +1,50 @@
+Reenvio de tramas
+compara
+
+Transmision en el thernet original = quiere decir que todos trasmitimos en el mismo enlace
+No podemos tener dos señales en el medio y se destruie bit a bit y tiene que dejar de transmitir
+El detector de colisiones esta activo hasta superar 
+y la señal alterada lo reciben todos todos activan tu tempotizador y las masquinas con coliciones 
+Y una vex que se libera el medio puede iniciar la transmision aquel dispositivo que venza primero
+
+
+Segmentación de los dominios de colision
+un dominio de colision es un segmento de red que comparte en el medio de alguna manera y por lo tanto es susceptible
+Un dominio de colision se extiende hasta que se encuentra con un puerto de un dispositivo de capa dos o tres
+
+Switch Lan de capa 2
+conecta dispositovos
+almacena en un tabla de conmutación la dirección MAC del dispositvo
+
+
+Definiciones de VLAN
+La segmentacion de vlabn pueden hacerse en funciones de varios factores: Funciones, aplicaciones y equipos
+SIN tener en cuena la ubicacion fisica o geografica
+Las VLANs mejoran el rendimiento de la red
+
+Beneficios de las redes VLAN
+
+Tipos de VLAN
+vlans de datos, predetermina,
+
+
+VLAN Predeterminada
+
+
+Vlan Nativa
+El trafico de cada vlan se etiqueta con el id de la vlan cuando se envia a otro switch
+se recomienda configurar la vlan nativa como una Vlan no autoriza, fistinta de cualquier otra vlan
+la vlan nativa debe ser la misma
+
+
+VLAN Admnistrativa
+es una vlan de datos configurada exclusivamente para que travez de ella viaje el trafico de admnitracion de la red
+
+este trafico incluye: TELNET, ssh, http, htppsm y snmp
+
+VLAN de voz
+el trafico VoIP requiere una vlan seqparada porque necesita: BW asegurado, prioridad y QoS, capacidad de ser reenviado con priorifaf
+
+
+ 
+
