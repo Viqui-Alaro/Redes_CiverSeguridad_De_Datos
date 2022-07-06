@@ -1,0 +1,13 @@
+
+
+Enlaces troncales de VLAN
+* Transporta trafico de mas de una vlan, por defecto todas las vlans existen
+*extiende el alcance de la VLAN a lo largo de la red
+*IOS de CISCO admite IEE802
+*Para llevar el trafico de una vlan a traves de: enlace tromnca, la valn debe existir en las dos switches conectados
+
+La VLAN de voZ
+los telefonos IP tienen tres puertos:
+* ek switch usa CDP para informar al telefono de la vlan de voz
+* EL teelfono genra su trafico con etiqueta de vlan de voz y puede establecer el costo del servicio (CoS)
+* el telefono puede o no etiquetar tramas de la PC
