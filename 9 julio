@@ -1,0 +1,3 @@
+Enrutamiento entre VLANs con switches de capa 3
+Un switch de capa 3 permite configurar una SVI para cada vlan existente, por lo tanto es
+capas de interficiarse como fispositovo en cada vlan
