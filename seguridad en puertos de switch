@@ -1,0 +1,21 @@
+seguridad en puertos de switch
+donde de debe configurar de DHCP snnoping
+verificacion de la configutacion === show ip dhcp snooping
+para verificar ip que se hayan asignado ? show ip dhcp snooping
+
+Mitigar los ataques de ARP
+
+Pautas de implementacion DAI
+
+Mitigar los ataques de STP
+un ataquante puede manipular STP pra falsificar el bridge root
+y cambiar la topologia de la red conmutada
+para eviart esto se puuede usuar portfast, BDDU guard
+
+
+WPA3   
+recordar que WPA2 y no es seguro, donde incluye 4 caracteristicas
+WPA3 personal,WPA3-enterprise, redes abiertas y incorporacion de internet de las cosas
+
+las redes abiertas oncorporacion de IOT
+auqneue WPA incluyo la condfiguracion protegida de WIFI
