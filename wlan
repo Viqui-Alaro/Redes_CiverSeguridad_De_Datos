@@ -1,0 +1,24 @@
+
+wlan es para sucursales pequeñas y redes domesticas en ccna se llama routers unalambricos
+se configura por interfaz grafica
+dependiendo de la marca 
+
+Con3exione WLAN empresariales
+las empresas no usan routers inalambricos para las conexiones WLAN 
+son dispositivos de bajas capacidades
+para estas coexiones se usan access points
+
+Los puertos son los zocalos pra las conexiones fisicad a la red cableada
+
+SNMP y RADIUS
+SNMP se utiliza para monitorear la red
+para la autenticación de usuarios de WLAn, se puede utilizar
+para servidor RADIUS para los servicios AAA
+las credenciales seran verificadas por el servidor Radius
+
+
+solucion de problemas cuando la red es lenta
+podemos actualizar sus clientes inalambricos
+dividir el trafico
+
+
